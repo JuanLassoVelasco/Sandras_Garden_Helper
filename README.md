@@ -11,3 +11,5 @@ Developed using the Platformio IDE
 - [x] Create simple package to implement moisture sensor
 - [ ] Add and implement bluetooth module for bluetooth connectivity
 - [ ] Create Flutter app to connect to device and display data
+- [ ] Create housing for moisture sensor
+- [ ] Create housing for main controller circuit
